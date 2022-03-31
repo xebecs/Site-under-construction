@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Site Under Construction!" />
         <p className="description">
-          We are polishing the dope Yoyos for you, please join our discord <code><a id="myAnchor" href="http://wwwanimationbd.com">www.animationbd.com</a></code>
+          We are polishing the dope Yoyos for you, <code><a id="myAnchor" href="http://www.animationbd.com">please join our discord</a></code>
         </p>
       </main>
 
