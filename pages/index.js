@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Site Under Construction!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          We are polishing the dope Yoyos for you, please join our discord <code>pages/index.js</code>
         </p>
       </main>
 
