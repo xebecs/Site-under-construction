@@ -18,12 +18,13 @@ body {
 }
 
 main {
+  top: 50px;
   padding: 10rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: baseline;
+  align-items: center;
   color: Chartreuse;
   text-shadow: 5px 5px 10px BlueViolet;
 
