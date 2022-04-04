@@ -23,7 +23,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   color: Chartreuse;
   text-shadow: 5px 5px 10px BlueViolet;
 
