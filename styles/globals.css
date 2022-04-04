@@ -24,6 +24,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: blue;
 }
 
 
@@ -42,4 +43,5 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: blue;
 }
