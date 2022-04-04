@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <Header title="Site Under Construction!" />
         <p className="description">
-          We are polishing the dope Yoyos for you, <code><a id="myAnchor" href="https://discord.gg/BBsVwVhW">please join our discord</a></code>
+          <p style="color:white;">We are polishing the dope Yoyos for you,</p> <code><a id="myAnchor" href="https://discord.gg/BBsVwVhW">please join our discord</a></code>
         </p>
       </main>
 
