@@ -24,10 +24,10 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: blue;
-  background-color: lightgrey;
-  border-radius: 9px;
-  opacity: 0.1;
+  color: Chartreuse;
+  text-shadow: 5px 5px 10px BlueViolet;
+
+
 }
 
 
