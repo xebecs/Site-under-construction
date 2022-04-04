@@ -18,6 +18,7 @@ body {
 }
 
 main {
+  left: 100px;
   padding: 10rem 0;
   flex: 1;
   display: flex;
