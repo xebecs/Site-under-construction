@@ -6,7 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Crypto Yoyo Club - 🪀 Offering you 3d Animated Hyper-Realistic YoYos as a key to enter the club for a very reasonable mint price!
+</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
