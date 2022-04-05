@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Crypto Yoyo Club - 🪀 Offering you 3d Animated Hyper-Realistic YoYos as a key to enter the club for a very reasonable mint price!
 </title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favico_cyc.png" />
       </Head>
 
       <main>
